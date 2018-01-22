@@ -1,0 +1,11 @@
+{
+    "require": {
+        "slim/slim": "^2.6",
+        "illuminate/database": "^5.5",
+        "illuminate/events": "^5.5",
+        "illuminate/pagination": "^5.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
